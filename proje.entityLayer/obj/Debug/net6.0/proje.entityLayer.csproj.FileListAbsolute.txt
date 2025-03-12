@@ -1,0 +1,14 @@
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\bin\Debug\net6.0\proje.entityLayer.deps.json
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\bin\Debug\net6.0\proje.entityLayer.runtimeconfig.json
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\bin\Debug\net6.0\proje.entityLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\bin\Debug\net6.0\proje.entityLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\proje.entityLayer.csproj.AssemblyReference.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\proje.entityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\proje.entityLayer.AssemblyInfoInputs.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\proje.entityLayer.AssemblyInfo.cs
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\proje.entityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\proje.entityLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\refint\proje.entityLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\proje.entityLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\proje.entityLayer.genruntimeconfig.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.entityLayer\obj\Debug\net6.0\ref\proje.entityLayer.dll

@@ -1,0 +1,15 @@
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\bin\Debug\net6.0\proje.DataAccessLayer.deps.json
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\bin\Debug\net6.0\proje.DataAccessLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\bin\Debug\net6.0\proje.DataAccessLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\bin\Debug\net6.0\proje.entityLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\bin\Debug\net6.0\proje.entityLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\proje.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\proje.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\proje.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\proje.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\proje.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\proje.Da.3F19B8F4.Up2Date
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\proje.DataAccessLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\refint\proje.DataAccessLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\proje.DataAccessLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.DataAccessLayer\obj\Debug\net6.0\ref\proje.DataAccessLayer.dll

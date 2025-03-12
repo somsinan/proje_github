@@ -1,0 +1,17 @@
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\bin\Debug\net6.0\proje.BusinessLayer.deps.json
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\bin\Debug\net6.0\proje.BusinessLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\bin\Debug\net6.0\proje.BusinessLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\bin\Debug\net6.0\proje.DataAccessLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\bin\Debug\net6.0\proje.entityLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\bin\Debug\net6.0\proje.DataAccessLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\bin\Debug\net6.0\proje.entityLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\proje.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\proje.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\proje.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\proje.BusinessLayer.AssemblyInfo.cs
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\proje.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\proje.Bu.1016CC69.Up2Date
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\proje.BusinessLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\refint\proje.BusinessLayer.dll
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\proje.BusinessLayer.pdb
+C:\Users\Destek Bilişim\source\repos\Solution1\proje.BusinessLayer\obj\Debug\net6.0\ref\proje.BusinessLayer.dll
